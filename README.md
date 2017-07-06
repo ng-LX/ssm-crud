@@ -11,7 +11,7 @@
 
     2.使用Maven构建spring+springMVC+mybatis项目，实现srud功能。
     
-    3.持久层直接采用mybatis Generator产生，也可以根据自己需要来进行修改。
+    3.持久层直接采用mybatis Generator产生，也可以根据自己需要来进行修改。
     
     4.使用mybatis的pagehelper来实现分页
 
