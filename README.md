@@ -13,7 +13,7 @@
     
     3.持久层直接采用mybatis Generator产生，也可以根据自己需要来进行修改。
     
-    4.使用mybatis的pagehelper来实现分页
+    4.使用mybatis的pagehelper来实现分页
 
     5.为了显示方便，数据库中的数据采用mybatis批量插入，数据格式采用UUID随机生成
 
