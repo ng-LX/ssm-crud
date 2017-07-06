@@ -15,7 +15,7 @@
     
     4.使用mybatis的pagehelper来实现分页
 
-    5.为了显示方便，数据库中的数据采用mybatis批量插入，数据格式采用UUID随机生成
+    5.为了显示方便，数据库中的数据采用mybatis批量插入，数据格式采用UUID随机生成
 
     6.前端使用bootstrap来快速搭建美观的界面
 
